@@ -8,7 +8,7 @@
 
 欢迎来到我的个人博客仓库！本博客通过 [GitHub Pages](https://pages.github.com/) 部署，托管于 `alllike996.github.io`，并绑定了自定义域名。
 
-🌐 在线访问地址：👉 [https://wanglin.loc.cc](https://wanglin.loc.cc)
+🌐 在线访问地址：👉 
 
 > 使用 GitHub Pages + Markdown 技术搭建，记录技术成长与个人思考。
 
@@ -30,7 +30,7 @@
 - **部署平台**：GitHub Pages
 - **页面构建**：Jekyll / 自定义 HTML
 - **写作格式**：Markdown
-- **自定义域名**：[wanglin.loc.cc](https://wanglin.loc.cc)
+- **自定义域名**：
 
 ---
 
