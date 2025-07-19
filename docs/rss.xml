@@ -1,5 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>无用之用有大用</title><link>https://alllike996.github.io</link><description>无用之用有大用，记录那些看似“无用”却让人灵魂发光的片刻。</description><copyright>无用之用有大用</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/192866183?v=4</url><title>avatar</title><link>https://alllike996.github.io</link></image><lastBuildDate>Fri, 18 Jul 2025 16:27:00 +0000</lastBuildDate><managingEditor>无用之用有大用</managingEditor><ttl>60</ttl><webMaster>无用之用有大用</webMaster><item><title>未来虚拟世界</title><link>https://alllike996.github.io/post/wei-lai-xu-ni-shi-jie.html</link><description># 🌐 未来虚拟世界：可能实现的技术展望
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>无用之用有大用</title><link>https://alllike996.github.io</link><description>无用之用有大用，记录那些看似“无用”却让人灵魂发光的片刻。</description><copyright>无用之用有大用</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/192866183?v=4</url><title>avatar</title><link>https://alllike996.github.io</link></image><lastBuildDate>Sat, 19 Jul 2025 10:40:21 +0000</lastBuildDate><managingEditor>无用之用有大用</managingEditor><ttl>60</ttl><webMaster>无用之用有大用</webMaster><item><title>学习计划</title><link>https://alllike996.github.io/post/xue-xi-ji-hua.html</link><description># **学习计划** 📚
+
+## **英语学习计划** 🇬🇧
+
+### **每日必做**
+- ✅ **核心任务**：背诵 ***5个新单词***  
+  - 从课文中找出这些单词  
+  - 熟读包含单词的句子，**理解语境**  
+  - 掌握句子的**完整意思**  
+- 🔝 **提升任务**：  
+  - 用新单词造句，尝试**不同语境**  
+  - 复习前3天学习的 ***15个单词***，**巩固记忆**  
+
+---
+
+## **语文学习计划** 📖
+
+### **每3天周期**
+1. **课文精读**：  
+   - 通读全文，**标注重点词句和段落**  
+   - 自选 ***1道最有价值的课后题*** 作答，注重**深度理解**  
+   - 背诵段落需在 ***3天内完成***，**确保熟练**  
+2. **做题原则**：  
+   - 聚焦能**加深理解**的题目，注重**质量而非数量**  
+   - 跳过过于简单的题目，**避免浪费时间**  
+   - 每道题保证 ***20分钟深度思考***，培养**分析能力**  
+
+---
+
+## **数学学习计划** ➗
+
+### **每日安排**
+- **Day 1**：  
+  - 学习**新小节内容**，理解**核心概念**  
+  - 完成对应**课堂练习**，**强化基础**  
+  - 遇到问题**立即查阅例题**，**及时解决疑惑**  
+- **Day 2**：  
+  - 完成该小节 ***10道练习题***，题目组合如下：  
+    - **基础题** × 3：**巩固基本概念**  
+    - **中等题** × 5：**提升解题技巧**  
+    - **难题** × 2：**挑战思维能力**  
+- ✨ **选做规则**：  
+  - **优先选择有挑战性的题目**，突破**舒适区**  
+  - 可专攻**感兴趣的题型**，**保持学习动力**  
+
+---
+
+## **注意事项** ‼️
+1. **错题本**：每学科准备**专用错题本**，**记录错误**并**定期复习**  
+2. **综合复习**：**每周日**安排**综合复习**，**梳理知识点**  
+3. **时间管理**：卡壳超过 ***30分钟*** 的问题**及时标记**，**寻求帮助**  
+4. **学习时长**：每天学习总时长控制在 ***4小时以内***，**保证效率**
+。</description><guid isPermaLink="true">https://alllike996.github.io/post/xue-xi-ji-hua.html</guid><pubDate>Sat, 19 Jul 2025 10:33:46 +0000</pubDate></item><item><title>未来虚拟世界</title><link>https://alllike996.github.io/post/wei-lai-xu-ni-shi-jie.html</link><description># 🌐 未来虚拟世界：可能实现的技术展望
 
 在科幻电影和小说中，虚拟世界总是令人神往。</description><guid isPermaLink="true">https://alllike996.github.io/post/wei-lai-xu-ni-shi-jie.html</guid><pubDate>Sun, 13 Jul 2025 02:05:24 +0000</pubDate></item><item><title>Python 文件与目录操作入门教程（基于 `os` 模块）</title><link>https://alllike996.github.io/post/Python%20-wen-jian-yu-mu-lu-cao-zuo-ru-men-jiao-cheng-%EF%BC%88-ji-yu-%20%60os%60%20-mo-kuai-%EF%BC%89.html</link><description># Python 文件与目录操作入门教程（基于 `os` 模块）
 
